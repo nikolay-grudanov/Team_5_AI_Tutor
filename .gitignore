@@ -1,3 +1,6 @@
+# Data
+/data/
+
 # Mac OS-specific storage files
 .DS_Store
 
@@ -144,10 +147,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
-.venv/**
 env/
 venv/
-venv/**
 ENV/
 env.bak/
 venv.bak/
@@ -323,18 +324,5 @@ tags
 .history
 .ionide
 
-# Большие файлы моделей - скачиваются отдельно
-models/**/*.safetensors
-*/model.safetensors.index.json
-models/**/*.bin
-models/**/*.pth
-models/**/*.pt
 
-# Но оставляем конфигурационные файлы
-!models/**/config.json
-!models/**/tokenizer*.json
-!models/**/generation_config.json
-!models/**/preprocessor_config.json
-!models/**/*.txt
-!models/**/README.md
-
+models/*/*.safetensors
