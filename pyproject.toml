@@ -17,7 +17,10 @@ classifiers = [
 ]
 dependencies = [
     "accelerate>=1.12.0",
+<<<<<<< HEAD
     "huggingface-hub>=0.36.0",
+=======
+>>>>>>> 5cd56b1a (feat(vlm-ingestion-pipeline): add pdf text extraction pipeline with ocr models)
     "jupyter>=1.1.1",
     "loguru",
     "matplotlib>=3.10.8",
@@ -73,11 +76,15 @@ classifiers = [
 dependencies = [
     "loguru",
     "mkdocs",
+    "pdf2image>=1.17.0",
+    "pillow>=12.0.0",
     "pip",
     "pytest",
     "python-dotenv",
     "ruff",
+    "torch>=2.9.1",
     "tqdm",
+    "transformers>=4.57.3",
     "typer",
 ]
 requires-python = "~=3.12.0"
@@ -94,4 +101,7 @@ extend-select = ["I"]  # Add import sorting
 [tool.ruff.lint.isort]
 known-first-party = ["Team_5_AI_Tutor"]
 force-sort-within-sections = true
+
+[tool.uv.sources]
+transformers = { git = "https://github.com/huggingface/transformers", rev = "82a06db03535c49aa987719ed0746a76093b1ec4" }
 
