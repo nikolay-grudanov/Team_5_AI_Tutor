@@ -323,3 +323,19 @@ tags
 # Ignore all local history of files
 .history
 .ionide
+
+# Большие файлы моделей - скачиваются отдельно
+models/**/*.safetensors
+*/model.safetensors.index.json
+models/**/*.bin
+models/**/*.pth
+models/**/*.pt
+
+# Но оставляем конфигурационные файлы
+!models/**/config.json
+!models/**/tokenizer*.json
+!models/**/generation_config.json
+!models/**/preprocessor_config.json
+!models/**/*.txt
+!models/**/README.md
+
