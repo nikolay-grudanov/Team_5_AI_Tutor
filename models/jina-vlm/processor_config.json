@@ -1,0 +1,7 @@
+{
+  "always_start_with_space": true,
+  "auto_map": {
+    "AutoProcessor": "processing_jvlm.JinaVLMProcessor"
+  },
+  "processor_class": "JinaVLMProcessor"
+}
