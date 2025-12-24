@@ -1,0 +1,13 @@
+folder_name,filename,page_number,text_length,tokens,processing_time,error
+o-predelnom-mnogomernom-raspredelenii,page_001.png,1,0,0,0.13715720176696777,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+o-predelnom-mnogomernom-raspredelenii,page_002.png,2,0,0,0.03992652893066406,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+o-predelnom-mnogomernom-raspredelenii,page_003.png,3,0,0,0.03878951072692871,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+o-predelnom-mnogomernom-raspredelenii,page_004.png,4,0,0,0.03471207618713379,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+standartizatsiya-i-kachestvo-zhizni,page_001.png,1,0,0,0.048419952392578125,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+standartizatsiya-i-kachestvo-zhizni,page_002.png,2,0,0,0.049957990646362305,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+standartizatsiya-i-kachestvo-zhizni,page_003.png,3,0,0,0.0457615852355957,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+Книга_Python_К_вершинам_мастерства_Рамальо_Лучано,page_001.png,1,0,0,0.16217780113220215,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+Книга_Python_К_вершинам_мастерства_Рамальо_Лучано,page_002.png,2,0,0,0.3029305934906006,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+Книга_Python_К_вершинам_мастерства_Рамальо_Лучано,page_003.png,3,0,0,0.17767715454101562,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+Книга_Python_К_вершинам_мастерства_Рамальо_Лучано,page_004.png,4,0,0,0.16475605964660645,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
+Книга_Python_К_вершинам_мастерства_Рамальо_Лучано,page_005.png,5,0,0,0.21573734283447266,"Error code: 400 - {'error': ""Invalid 'content': 'content' objects must have a 'type' field that is either 'text' or 'image_url'.""}"
