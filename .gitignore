@@ -652,3 +652,17 @@ tags
 .ionide
 
 models/*/*.safetensors
+.specify/**
+.kilocode/**
+.kilocode/
+.specify/
+# Large ML models
+models/
+*.safetensors
+*.bin
+*.onnx
+*.pt
+*.pth
+
+# Git LFS objects
+.git/lfs/objects/
