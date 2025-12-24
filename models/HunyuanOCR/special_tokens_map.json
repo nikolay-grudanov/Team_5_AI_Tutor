@@ -1,5 +1,0 @@
-{
-  "bos_token": "<｜hy_begin▁of▁sentence｜>",
-  "eos_token": "<｜hy_place▁holder▁no▁2｜>",
-  "pad_token": "<｜hy_▁pad▁｜>"
-}
