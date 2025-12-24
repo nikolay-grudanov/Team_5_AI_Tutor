@@ -1,61 +1,240 @@
 # Team_5_AI_Tutor
 
+## **AI-репетитор по техническим дисциплинам с RAG-архитектурой**
+
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-Хакатон за третий семест. Команда 5. Задача 1. Разработка AI-репетитора по техническим дисциплинам, Cloud.ru
+<a target="_blank" href="https://github.com/nikolay-grudanov/Team_5_AI_Tutor">
+    <img src="https://img.shields.io/badge/Hackathon-MEPHI%20Cloud.ru-blue" />
+</a>
 
-## Project Organization
+Хакатон третьего семестра. Команда 5. Задача 1: Разработка AI-репетитора по математике, физике, химии и программированию.
+Кейс партнера Cloud.ru.
+
+## 👥 Команда 5
+
+- **Задача**: AI-репетитор по техническим дисциплинам
+- **Технологии**: RAG, LLM, OCR, Vector Search
+- **Участники**:
+  - Никитин Леон
+  - Бодак Никита
+  - Курышев Алексей
+  - Груданов Николай
+  - Комаров Василий
+  - Алексей Кривокульский
+
+
+***
+
+## 🎯 Описание проекта
+
+Система интеллектуального репетитора, использующая **RAG (Retrieval-Augmented Generation)** для ответов на вопросы студентов по техническим дисциплинам. Приложение индексирует учебные материалы, извлекает релевантный контекст через векторный поиск и генерирует структурированные ответы с использованием LLM.
+
+### Ключевые возможности
+
+- 📚 **Мультипредметная база знаний**: математика, физика, химия, программирование
+- 🔍 **Семантический поиск**: векторные эмбеддинги для точного извлечения контекста
+- 🤖 **Генерация ответов**: интеграция с современными LLM (GPT-2/Mixtral/Qwen)
+- 🌐 **Веб-интерфейс**: Flask-приложение с интерактивным чатом
+- 📊 **OCR-пайплайн**: обработка PDF-документов через Vision-Language модели
+- 🔄 **Гибкая архитектура**: модульная система с возможностью замены компонентов
+
+***
+
+## 📂 Структура проекта
 
 ```
-├── LICENSE            <- Open-source license if one is chosen
-├── Makefile           <- Makefile with convenience commands like `make data` or `make train`
-├── README.md          <- The top-level README for developers using this project.
-├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+Team_5_AI_Tutor/
+├── AI asist/                      # Основное RAG-приложение
+│   ├── app.py                     # Flask веб-сервер
+│   ├── config.py                  # Конфигурация (модели, пути, параметры)
+│   ├── document_processor.py      # Чанкинг и обработка документов
+│   ├── vector_store.py            # Векторное хранилище (embeddings + поиск)
+│   ├── llm_generator.py           # Генерация ответов через LLM
+│   ├── rag_pipeline.py            # Полный RAG-пайплайн (retrieval + generation)
+│   ├── requirements.txt           # Python зависимости
+│   ├── data/
+│   │   ├── documents/             # Учебные материалы по предметам
+│   │   │   ├── mathematics/       # Математика (алгебра, геометрия, анализ)
+│   │   │   ├── physics/           # Физика (механика, термодинамика)
+│   │   │   ├── chemistry/         # Химия (стехиометрия, органика)
+│   │   │   └── programming/       # Программирование (Python, алгоритмы)
+│   │   ├── vector_store/          # Сохранённые эмбеддинги и метаданные
+│   │   └── logs/                  # Логи приложения
+│   └── templates/
+│       └── index.html             # Веб-интерфейс чата
 │
-├── docs               <- A default mkdocs project; see www.mkdocs.org for details
+├── rag_pipeline/                  # OCR и обработка PDF
+│   ├── ocr/
+│   │   ├── pipeline.py            # Основной OCR пайплайн
+│   │   ├── processor.py           # Обработка изображений и текста
+│   │   ├── client.py              # Клиент для vLLM сервера
+│   │   └── config.py              # Настройки OCR
+│   └── pdf_conversion.py          # Конвертация PDF → изображения
 │
-├── models             <- Trained and serialized models, model predictions, or model summaries
+├── notebooks/                     # Jupyter ноутбуки для экспериментов
+│   ├── embedding/                 # Тесты embedding моделей
+│   ├── Scraper/                   # Скрейперы документации (Cloud.ru)
+│   └── vlm-ingestion-pipeline/    # Сравнение OCR моделей
+│       ├── compare_ocr_models.ipynb
+│       ├── test_images/           # Тестовые изображения из PDF
+│       └── pdf-for-test/          # Тестовые PDF файлы
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── pdf_source_files/              # Исходные PDF учебники
+│   ├── math/                      # Математика (теория вероятностей, линал)
+│   ├── python/                    # Python (PyTorch, FastAPI, анализ данных)
+│   ├── linux/                     # Linux администрирование
+│   ├── cryptography/              # Криптография и блокчейн
+│   ├── infosec/                   # Информационная безопасность
+│   ├── rust/                      # Rust программирование
+│   └── html_web/                  # Веб-разработка (JS, CSS)
 │
-├── pyproject.toml     <- Project configuration file with package metadata for 
-│                         Team_5_AI_Tutor and configuration for tools like black
+├── scripts/                       # Утилиты и автоматизация
+│   ├── run_ocr.py                 # Запуск OCR-обработки
+│   └── vllm/
+│       └── rocm/                  # Docker-скрипты для vLLM на AMD GPU
+│           ├── build_vllm_rocm.sh
+│           ├── start_vllm_rocm.sh
+│           └── Dockerfile.vllm-rocm-debug
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials.
+├── docs/                          # Документация (MkDocs)
+│   ├── mkdocs.yml
+│   └── docs/
+│       ├── getting-started.md
+│       └── index.md
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
+├── tests/                         # Тесты
+│   └── test_data.py
 │
-├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-│                         generated with `pip freeze > requirements.txt`
+├── models/                        # Large ML модели (Git LFS)
+│   ├── Llama-3.1-Nemotron-Nano-VL-8B-V1/
+│   ├── Qwen3-VL-8B-Instruct/
+│   └── olmOCR-2-7B-1025/
 │
-├── setup.cfg          <- Configuration file for flake8
-│
-└── Team_5_AI_Tutor   <- Source code for use in this project.
-    │
-    ├── __init__.py             <- Makes Team_5_AI_Tutor a Python module
-    │
-    ├── config.py               <- Store useful variables and configuration
-    │
-    ├── dataset.py              <- Scripts to download or generate data
-    │
-    ├── features.py             <- Code to create features for modeling
-    │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+├── pyproject.toml                 # Poetry/UV конфигурация проекта
+├── uv.lock                        # Зависимости (UV package manager)
+├── Makefile                       # Команды для сборки и деплоя
+└── README.md                      # Этот файл
 ```
 
---------
+***
+
+## 🚀 Быстрый старт
+
+### Установка зависимостей
+
+```bash
+# Установите UV package manager (рекомендуется)
+pip install uv
+
+# Создайте виртуальное окружение
+uv venv
+source .venv/bin/activate  # Linux/macOS
+# или
+.venv\Scripts\activate     # Windows
+
+# Установите зависимости
+cd "AI asist"
+uv pip install -r requirements.txt
+```
+
+### Подробная документация
+
+* [Структура репетитора](<AI asist/PROJECT_STRUCTURE_DETAILED.md>)
+* [Быстрый старт AI-Репетитора](<AI asist/QUICK_START.md>)
+* [Развертывание AI-Репетитора](<AI asist/DEPLOYMENT.md>)
+
+
+### Конфигурация
+
+Отредактируйте `AI asist/config.py`:
+
+```python
+# Модели
+EMBEDDING_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+LLM_MODEL = "gpt2"  # или путь к локальной модели
+
+# Параметры RAG
+CHUNK_SIZE = 500
+CHUNK_OVERLAP = 100
+TOP_K = 5  # Количество извлекаемых документов
+```
+
+***
+
+## 🧪 OCR Pipeline для обработки PDF
+
+### Запуск vLLM сервера (AMD ROCm GPU)
+
+```bash
+cd scripts/vllm/rocm/
+
+# Сборка Docker образа
+./build_vllm_rocm.sh
+
+# Запуск сервера с моделью Qwen3-VL-8B
+./start_vllm_rocm.sh
+
+# Проверка статуса
+./status_vllm_rocm.sh
+```
+
+### Обработка PDF документов
+
+```bash
+# Конвертация PDF → изображения → OCR текст
+python scripts/run_ocr.py --input pdf_source_files/math/Chernova_Probability_theory.pdf -w 16
+
+```
+
+### Подробная документация
+
+* [OCR Модуль для обработки изображений](rag_pipeline/ocr/README.md)
+* [Быстрый старт OCR модуля](rag_pipeline/ocr/QUICKSTART.md)
+
+***
+
+## 📊 Компоненты системы
+
+### 1. Document Processor
+- **Функция**: разбиение текста на чанки фиксированного размера
+- **Алгоритм**: скользящее окно с перекрытием (500/100 символов)
+- **Форматы**: TXT, MD, PDF (через OCR)
+
+### 2. Vector Store
+- **Embedding модель**: sentence-transformers/all-MiniLM-L6-v2 (384-мерные векторы)
+- **Поиск**: косинусное сходство через numpy
+- **Хранилище**: сериализация embeddings.npy + chunks_metadata.json
+
+### 3. LLM Generator
+- **Модели**: GPT-2 (локально) или API интеграция (OpenAI/Together.ai)
+- **Промпт**: структурированный шаблон с ролью репетитора
+- **Параметры**: max_length=500, temperature=0.7
+
+### 4. RAG Pipeline
+- **Этапы**: query → embedding → retrieval (top-5) → context assembly → LLM generation
+- **Оптимизация**: кэширование эмбеддингов запросов
+
+***
+
+## 🔧 Технологический стек
+
+| Компонент | Технология | Версия |
+|-----------|------------|--------|
+| **Backend** | Flask | 3.0+ |
+| **LLM** | GPT-2 / Qwen3-VL / Mixtral | - |
+| **Embeddings** | Sentence Transformers | 2.5+ |
+| **OCR** | vLLM + Vision Models | [allenai/olmOCR-2-7B-1025](https://huggingface.co/allenai/olmOCR-2-7B-1025) |
+| **Векторы** | NumPy | 1.26+ |
+| **Frontend** | HTML/CSS/JavaScript | - |
+| **GPU** | AMD ROCm / NVIDIA CUDA | - |
+| **Package Manager** | UV / pip | 0.5+ |
+
+
+
+***
+
+**Статус**: 🚧 Active Development 
 
