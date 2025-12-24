@@ -1,0 +1,2762 @@
+{
+  "scrape_date": "2025-12-24T04:01:35.687963",
+  "duration_seconds": 2035.366604,
+  "total_pages": 120,
+  "successful": 119,
+  "method": "playwright_full_page_compressed",
+  "scale_factor": 0.75,
+  "jpeg_quality": 70,
+  "sidebar_hidden": true,
+  "total_size_mb": {
+    "original": 64.71584033966064,
+    "compressed": 44.793917655944824,
+    "saved": 19.92192268371582
+  },
+  "pages": [
+    {
+      "index": 1,
+      "url": "https://cloud.ru/docs/",
+      "filename": "docs",
+      "timestamp": "2025-12-24T04:02:07.983887",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Документация  Cloud.ru Evolution",
+      "section_info": {
+        "category": null,
+        "subcategory": null,
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4918,
+      "original_size_mb": 0.45530033111572266,
+      "compressed_size_mb": 0.3401069641113281,
+      "compression_ratio": 74.69947655822897,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs.jpg",
+        "filename": "docs.jpg"
+      }
+    },
+    {
+      "index": 2,
+      "url": "https://cloud.ru/docs/evolution/overview/contacts/technical-support",
+      "filename": "docs_evolution_overview_contacts_technical-support",
+      "timestamp": "2025-12-24T04:02:19.746263",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Обратиться в поддержку",
+      "section_info": {
+        "category": "overview",
+        "subcategory": "technical-support",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 1192,
+      "original_size_mb": 0.11696815490722656,
+      "compressed_size_mb": 0.107330322265625,
+      "compression_ratio": 91.76029351814105,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_evolution_overview_contacts_technical-support.jpg",
+        "filename": "docs_evolution_overview_contacts_technical-support.jpg"
+      }
+    },
+    {
+      "index": 3,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/index?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_index",
+      "timestamp": "2025-12-24T04:02:39.362909",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Практические руководства Cloud.ru Evolution",
+      "section_info": {
+        "category": "list",
+        "subcategory": null,
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5155,
+      "original_size_mb": 0.45633506774902344,
+      "compressed_size_mb": 0.3574247360229492,
+      "compression_ratio": 78.32506447203983,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_index.jpg",
+        "filename": "docs_tutorials-evolution_list_index.jpg"
+      }
+    },
+    {
+      "index": 4,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__adbc-backup?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_arenadata-db__adbc-backup",
+      "timestamp": "2025-12-24T04:03:01.999892",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создать бэкап в Object Storage по расписанию в ADBC",
+      "section_info": {
+        "category": "list",
+        "subcategory": "arenadata-db__adbc-backup",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2810,
+      "original_size_mb": 0.2889671325683594,
+      "compressed_size_mb": 0.22358417510986328,
+      "compression_ratio": 77.37356602553102,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_arenadata-db__adbc-backup.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_arenadata-db__adbc-backup.jpg"
+      }
+    },
+    {
+      "index": 5,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__dbeaver?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_arenadata-db__dbeaver",
+      "timestamp": "2025-12-24T04:03:23.085637",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Работа с данными в Managed ArenadataDB",
+      "section_info": {
+        "category": "list",
+        "subcategory": "arenadata-db__dbeaver",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2968,
+      "original_size_mb": 0.27027130126953125,
+      "compressed_size_mb": 0.19764232635498047,
+      "compression_ratio": 73.1273817925194,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_arenadata-db__dbeaver.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_arenadata-db__dbeaver.jpg"
+      }
+    },
+    {
+      "index": 6,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__managed-bi?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_arenadata-db__managed-bi",
+      "timestamp": "2025-12-24T04:03:33.421941",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение Managed ArenadataDB к Managed BI",
+      "section_info": {
+        "category": "list",
+        "subcategory": "arenadata-db__managed-bi",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4436,
+      "original_size_mb": 0.4492311477661133,
+      "compressed_size_mb": 0.3397693634033203,
+      "compression_ratio": 75.63352743746458,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_arenadata-db__managed-bi.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_arenadata-db__managed-bi.jpg"
+      }
+    },
+    {
+      "index": 7,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/arenadata-db__vm-local-ip?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_arenadata-db__vm-local-ip",
+      "timestamp": "2025-12-24T04:03:55.300805",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение к Managed ArenadataDB через ВМ по локальной сети",
+      "section_info": {
+        "category": "list",
+        "subcategory": "arenadata-db__vm-local-ip",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2960,
+      "original_size_mb": 0.2865428924560547,
+      "compressed_size_mb": 0.2247638702392578,
+      "compression_ratio": 78.43986926799396,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_arenadata-db__vm-local-ip.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_arenadata-db__vm-local-ip.jpg"
+      }
+    },
+    {
+      "index": 8,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__1c_deploy?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_bare-metal__1c_deploy",
+      "timestamp": "2025-12-24T04:04:11.118461",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание 1С на сервере Bare Metal",
+      "section_info": {
+        "category": "list",
+        "subcategory": "bare-metal__1c_deploy",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3095,
+      "original_size_mb": 0.24190616607666016,
+      "compressed_size_mb": 0.1716785430908203,
+      "compression_ratio": 70.96906452414086,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_bare-metal__1c_deploy.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_bare-metal__1c_deploy.jpg"
+      }
+    },
+    {
+      "index": 9,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__highload_app?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_bare-metal__highload_app",
+      "timestamp": "2025-12-24T04:04:29.529744",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Разработка высоконагруженного приложения на сервере Bare Metal",
+      "section_info": {
+        "category": "list",
+        "subcategory": "bare-metal__highload_app",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4372,
+      "original_size_mb": 0.38227176666259766,
+      "compressed_size_mb": 0.29349327087402344,
+      "compression_ratio": 76.77607829538395,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_bare-metal__highload_app.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_bare-metal__highload_app.jpg"
+      }
+    },
+    {
+      "index": 10,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__k3s?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_bare-metal__k3s",
+      "timestamp": "2025-12-24T04:04:42.775927",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание K3s на сервере Bare Metal",
+      "section_info": {
+        "category": "list",
+        "subcategory": "bare-metal__k3s",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2126,
+      "original_size_mb": 0.17595291137695312,
+      "compressed_size_mb": 0.1333770751953125,
+      "compression_ratio": 75.80271002710028,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_bare-metal__k3s.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_bare-metal__k3s.jpg"
+      }
+    },
+    {
+      "index": 11,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__llm_deploy?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_bare-metal__llm_deploy",
+      "timestamp": "2025-12-24T04:04:57.181939",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание LLM на сервере Bare Metal",
+      "section_info": {
+        "category": "list",
+        "subcategory": "bare-metal__llm_deploy",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3053,
+      "original_size_mb": 0.27248477935791016,
+      "compressed_size_mb": 0.1956653594970703,
+      "compression_ratio": 71.80781251640586,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_bare-metal__llm_deploy.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_bare-metal__llm_deploy.jpg"
+      }
+    },
+    {
+      "index": 12,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__onlyoffice?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_bare-metal__onlyoffice",
+      "timestamp": "2025-12-24T04:05:22.062864",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Установка Onlyoffice Community на выделенный сервер Bare Metal",
+      "section_info": {
+        "category": "list",
+        "subcategory": "bare-metal__onlyoffice",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4686,
+      "original_size_mb": 0.45974254608154297,
+      "compressed_size_mb": 0.2575225830078125,
+      "compression_ratio": 56.014520562153194,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_bare-metal__onlyoffice.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_bare-metal__onlyoffice.jpg"
+      }
+    },
+    {
+      "index": 13,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/bare-metal__postgre_deploy?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_bare-metal__postgre_deploy",
+      "timestamp": "2025-12-24T04:05:41.699385",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание PostgreSQL на сервере Bare Metal",
+      "section_info": {
+        "category": "list",
+        "subcategory": "bare-metal__postgre_deploy",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2555,
+      "original_size_mb": 0.2583599090576172,
+      "compressed_size_mb": 0.19867515563964844,
+      "compression_ratio": 76.898601011406,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_bare-metal__postgre_deploy.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_bare-metal__postgre_deploy.jpg"
+      }
+    },
+    {
+      "index": 14,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__before-work?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__before-work",
+      "timestamp": "2025-12-24T04:06:01.452994",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подготовка среды для Artifact Registry и Container Apps",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__before-work",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2645,
+      "original_size_mb": 0.2955913543701172,
+      "compressed_size_mb": 0.19583892822265625,
+      "compression_ratio": 66.25326665591224,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__before-work.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__before-work.jpg"
+      }
+    },
+    {
+      "index": 15,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__ci-cd?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__ci-cd",
+      "timestamp": "2025-12-24T04:06:17.380452",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Настройка пайплайна CI/CD в GitHub, GitLab и GitVerse с использованием Artifact Registry",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__ci-cd",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2690,
+      "original_size_mb": 0.3149375915527344,
+      "compressed_size_mb": 0.27028942108154297,
+      "compression_ratio": 85.82316888528204,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__ci-cd.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__ci-cd.jpg"
+      }
+    },
+    {
+      "index": 16,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__deploy-backend-app?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__deploy-backend-app",
+      "timestamp": "2025-12-24T04:06:28.752041",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание backend-приложения в контейнере",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__deploy-backend-app",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4494,
+      "original_size_mb": 0.45741844177246094,
+      "compressed_size_mb": 0.3313102722167969,
+      "compression_ratio": 72.430457970386,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__deploy-backend-app.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__deploy-backend-app.jpg"
+      }
+    },
+    {
+      "index": 17,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__deploy-django-photo-app?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__deploy-django-photo-app",
+      "timestamp": "2025-12-24T04:06:40.815645",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание django-приложения для раздачи фотографий",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__deploy-django-photo-app",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 11967,
+      "original_size_mb": 1.091522216796875,
+      "compressed_size_mb": 0.7541837692260742,
+      "compression_ratio": 69.09467875415886,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__deploy-django-photo-app.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__deploy-django-photo-app.jpg"
+      }
+    },
+    {
+      "index": 18,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__deploy-frontend-app?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__deploy-frontend-app",
+      "timestamp": "2025-12-24T04:06:57.306483",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание frontend-приложения в контейнере",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__deploy-frontend-app",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5222,
+      "original_size_mb": 0.5855560302734375,
+      "compressed_size_mb": 0.3720865249633789,
+      "compression_ratio": 63.54413680781759,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__deploy-frontend-app.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__deploy-frontend-app.jpg"
+      }
+    },
+    {
+      "index": 19,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__jupyter-server?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__jupyter-server",
+      "timestamp": "2025-12-24T04:07:17.084999",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание Jupyter Server в контейнере",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__jupyter-server",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6122,
+      "original_size_mb": 0.5718050003051758,
+      "compressed_size_mb": 0.36995792388916016,
+      "compression_ratio": 64.70001551083173,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__jupyter-server.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__jupyter-server.jpg"
+      }
+    },
+    {
+      "index": 20,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__nocode-telegram-bot?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__nocode-telegram-bot",
+      "timestamp": "2025-12-24T04:07:33.611671",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание Telegram-бота без написания кода с помощью n8n на основе Container Apps или Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__nocode-telegram-bot",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 10478,
+      "original_size_mb": 1.121016502380371,
+      "compressed_size_mb": 0.6566123962402344,
+      "compression_ratio": 58.57294650399712,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__nocode-telegram-bot.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__nocode-telegram-bot.jpg"
+      }
+    },
+    {
+      "index": 21,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__telegram-bot-connection?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__telegram-bot-connection",
+      "timestamp": "2025-12-24T04:07:47.948558",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение ИИ из Foundation Models к nocode Telegram-боту на основе Container Apps или Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__telegram-bot-connection",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4286,
+      "original_size_mb": 0.47379493713378906,
+      "compressed_size_mb": 0.33516502380371094,
+      "compression_ratio": 70.74052454660735,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__telegram-bot-connection.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__telegram-bot-connection.jpg"
+      }
+    },
+    {
+      "index": 22,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__telegram-bot?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__telegram-bot",
+      "timestamp": "2025-12-24T04:07:58.799996",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск Telegram-бота на Python в контейнере",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__telegram-bot",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8350,
+      "original_size_mb": 1.2470884323120117,
+      "compressed_size_mb": 0.5320415496826172,
+      "compression_ratio": 42.66269623688599,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__telegram-bot.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__telegram-bot.jpg"
+      }
+    },
+    {
+      "index": 23,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/container-apps__vibecode-django-photo-app-mcp-server?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_container-apps__vibecode-django-photo-app-mcp-server",
+      "timestamp": "2025-12-24T04:08:21.147797",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Вайб-кодинг с помощью Foundation Models и подключение MCP-сервера для деплоя приложения в Container Apps",
+      "section_info": {
+        "category": "list",
+        "subcategory": "container-apps__vibecode-django-photo-app-mcp-server",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 16304,
+      "original_size_mb": 1.885782241821289,
+      "compressed_size_mb": 1.2120609283447266,
+      "compression_ratio": 64.27364207089562,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_container-apps__vibecode-django-photo-app-mcp-server.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_container-apps__vibecode-django-photo-app-mcp-server.jpg"
+      }
+    },
+    {
+      "index": 24,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__assistent-aider?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__assistent-aider",
+      "timestamp": "2025-12-24T04:08:46.596244",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание приложения с Aider и Foundation Models",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__assistent-aider",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4367,
+      "original_size_mb": 0.5046319961547852,
+      "compressed_size_mb": 0.2949047088623047,
+      "compression_ratio": 58.439558155137064,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__assistent-aider.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__assistent-aider.jpg"
+      }
+    },
+    {
+      "index": 25,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-chatbox?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-chatbox",
+      "timestamp": "2025-12-24T04:09:01.841662",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание ассистентов и работа с документами в Chatbox на основе Foundation Models",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__connect-chatbox",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8222,
+      "original_size_mb": 1.1339054107666016,
+      "compressed_size_mb": 0.5393199920654297,
+      "compression_ratio": 47.56304952287075,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__connect-chatbox.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-chatbox.jpg"
+      }
+    },
+    {
+      "index": 26,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-librechat?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-librechat",
+      "timestamp": "2025-12-24T04:09:24.228752",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение корпоративной AI чат-платформы LibreChat к Foundation Models",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__connect-librechat",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8984,
+      "original_size_mb": 0.9489860534667969,
+      "compressed_size_mb": 0.5921535491943359,
+      "compression_ratio": 62.39855127808306,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__connect-librechat.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-librechat.jpg"
+      }
+    },
+    {
+      "index": 27,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-litellm?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-litellm",
+      "timestamp": "2025-12-24T04:09:39.170180",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение LLM-шлюза Litellm к Foundation Models",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__connect-litellm",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9347,
+      "original_size_mb": 0.9165582656860352,
+      "compressed_size_mb": 0.6244096755981445,
+      "compression_ratio": 68.12547537616497,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__connect-litellm.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-litellm.jpg"
+      }
+    },
+    {
+      "index": 28,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__connect-vscode?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-vscode",
+      "timestamp": "2025-12-24T04:10:06.717451",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение Foundation Models в VS Code",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__connect-vscode",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8014,
+      "original_size_mb": 1.1535558700561523,
+      "compressed_size_mb": 0.5464982986450195,
+      "compression_ratio": 47.37510447746387,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__connect-vscode.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__connect-vscode.jpg"
+      }
+    },
+    {
+      "index": 29,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__langchain-tg-bot?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__langchain-tg-bot",
+      "timestamp": "2025-12-24T04:10:20.310039",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание бота для суммаризации чатов и каналов в Telegram на LangChain и Foundation Models",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__langchain-tg-bot",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9705,
+      "original_size_mb": 1.3352127075195312,
+      "compressed_size_mb": 0.7287521362304688,
+      "compression_ratio": 54.57947876966327,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__langchain-tg-bot.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__langchain-tg-bot.jpg"
+      }
+    },
+    {
+      "index": 30,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/foundation-models__open-webui?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_foundation-models__open-webui",
+      "timestamp": "2025-12-24T04:10:37.721368",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Интеграция веб-интерфейса Open WebUI с Foundation Models",
+      "section_info": {
+        "category": "list",
+        "subcategory": "foundation-models__open-webui",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 7745,
+      "original_size_mb": 0.8169183731079102,
+      "compressed_size_mb": 0.5349283218383789,
+      "compression_ratio": 65.48124506041903,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_foundation-models__open-webui.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_foundation-models__open-webui.jpg"
+      }
+    },
+    {
+      "index": 31,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__app-as-a-service?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__app-as-a-service",
+      "timestamp": "2025-12-24T04:10:51.139382",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск приложения на виртуальной машине в качестве службы",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__app-as-a-service",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 7348,
+      "original_size_mb": 0.6275177001953125,
+      "compressed_size_mb": 0.4691123962402344,
+      "compression_ratio": 74.75683890577508,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__app-as-a-service.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__app-as-a-service.jpg"
+      }
+    },
+    {
+      "index": 32,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__blog-wordpress?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__blog-wordpress",
+      "timestamp": "2025-12-24T04:11:04.550654",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск личного блога на WordPress на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__blog-wordpress",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4211,
+      "original_size_mb": 0.4685068130493164,
+      "compressed_size_mb": 0.3312864303588867,
+      "compression_ratio": 70.71112332447865,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__blog-wordpress.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__blog-wordpress.jpg"
+      }
+    },
+    {
+      "index": 33,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__currency-n8n-tg-bot?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__currency-n8n-tg-bot",
+      "timestamp": "2025-12-24T04:11:24.984080",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "No-code автоматизация рассылки курса валют в Telegram с помощью n8n",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__currency-n8n-tg-bot",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6353,
+      "original_size_mb": 0.6016216278076172,
+      "compressed_size_mb": 0.4709291458129883,
+      "compression_ratio": 78.27663169775191,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__currency-n8n-tg-bot.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__currency-n8n-tg-bot.jpg"
+      }
+    },
+    {
+      "index": 34,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__docker?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__docker",
+      "timestamp": "2025-12-24T04:11:35.820968",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск контейнеризированного приложения на виртуальной машине с помощью Docker и Docker Compose",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__docker",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4226,
+      "original_size_mb": 0.3758363723754883,
+      "compressed_size_mb": 0.3020515441894531,
+      "compression_ratio": 80.36783195844636,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__docker.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__docker.jpg"
+      }
+    },
+    {
+      "index": 35,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__gitlab?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__gitlab",
+      "timestamp": "2025-12-24T04:11:48.427832",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание Gitlab на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__gitlab",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2606,
+      "original_size_mb": 0.23358535766601562,
+      "compressed_size_mb": 0.16411399841308594,
+      "compression_ratio": 70.25868404291803,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__gitlab.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__gitlab.jpg"
+      }
+    },
+    {
+      "index": 36,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__jitsi-video-conferences?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__jitsi-video-conferences",
+      "timestamp": "2025-12-24T04:12:06.184831",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание сервиса видеоконференций Jitsi на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__jitsi-video-conferences",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6429,
+      "original_size_mb": 0.6294765472412109,
+      "compressed_size_mb": 0.43110084533691406,
+      "compression_ratio": 68.48560875322323,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__jitsi-video-conferences.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__jitsi-video-conferences.jpg"
+      }
+    },
+    {
+      "index": 37,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__mail-server?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__mail-server",
+      "timestamp": "2025-12-24T04:12:25.447346",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание почтового сервера Exim на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__mail-server",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2157,
+      "original_size_mb": 0.21109867095947266,
+      "compressed_size_mb": 0.1584148406982422,
+      "compression_ratio": 75.04303081503299,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__mail-server.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__mail-server.jpg"
+      }
+    },
+    {
+      "index": 38,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__minecraft?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__minecraft",
+      "timestamp": "2025-12-24T04:13:26.952368",
+      "success": false,
+      "error": "Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__minecraft?source-platform=Evolution\", waiting until \"networkidle\"\n"
+    },
+    {
+      "index": 39,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__nextcloud?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__nextcloud",
+      "timestamp": "2025-12-24T04:13:38.850856",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Организация хранения файлов через Nextcloud с доступом через веб-интерфейс и мобильное приложение",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__nextcloud",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4697,
+      "original_size_mb": 0.5043258666992188,
+      "compressed_size_mb": 0.37743473052978516,
+      "compression_ratio": 74.8394550928097,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__nextcloud.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__nextcloud.jpg"
+      }
+    },
+    {
+      "index": 40,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__outline?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__outline",
+      "timestamp": "2025-12-24T04:13:56.077184",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание Wiki-сервиса Outline на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__outline",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8543,
+      "original_size_mb": 0.8215293884277344,
+      "compressed_size_mb": 0.5802736282348633,
+      "compression_ratio": 70.6333378219624,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__outline.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__outline.jpg"
+      }
+    },
+    {
+      "index": 41,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__passbolt?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__passbolt",
+      "timestamp": "2025-12-24T04:14:04.655785",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание личного менеджера паролей на базе PassBolt на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__passbolt",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4668,
+      "original_size_mb": 0.4726104736328125,
+      "compressed_size_mb": 0.3847942352294922,
+      "compression_ratio": 81.41889710392924,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__passbolt.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__passbolt.jpg"
+      }
+    },
+    {
+      "index": 42,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__postgresql-connection?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__postgresql-connection",
+      "timestamp": "2025-12-24T04:14:23.712740",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Настройка взаимодействия приложения на виртуальных машинах с сервисом Managed PostgreSQL®",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__postgresql-connection",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9029,
+      "original_size_mb": 0.843419075012207,
+      "compressed_size_mb": 0.5950117111206055,
+      "compression_ratio": 70.54757578395933,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__postgresql-connection.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__postgresql-connection.jpg"
+      }
+    },
+    {
+      "index": 43,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__tg-bot-python?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__tg-bot-python",
+      "timestamp": "2025-12-24T04:14:35.164141",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск Telegram-бота на Python на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__tg-bot-python",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4198,
+      "original_size_mb": 0.41060733795166016,
+      "compressed_size_mb": 0.3147411346435547,
+      "compression_ratio": 76.65258400243408,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__tg-bot-python.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__tg-bot-python.jpg"
+      }
+    },
+    {
+      "index": 44,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/free-tier-vm__twenty-crm?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__twenty-crm",
+      "timestamp": "2025-12-24T04:14:52.402945",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание CRM-сервиса Twenty на виртуальной машине",
+      "section_info": {
+        "category": "list",
+        "subcategory": "free-tier-vm__twenty-crm",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8687,
+      "original_size_mb": 0.9372262954711914,
+      "compressed_size_mb": 0.6017999649047852,
+      "compression_ratio": 64.21074267898445,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_free-tier-vm__twenty-crm.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_free-tier-vm__twenty-crm.jpg"
+      }
+    },
+    {
+      "index": 45,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__ai-factory?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__ai-factory",
+      "timestamp": "2025-12-24T04:15:10.963736",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "AI Factory",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__ai-factory",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 1842,
+      "original_size_mb": 0.20544815063476562,
+      "compressed_size_mb": 0.16189098358154297,
+      "compression_ratio": 78.79894906883042,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__ai-factory.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__ai-factory.jpg"
+      }
+    },
+    {
+      "index": 46,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__brokers?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__brokers",
+      "timestamp": "2025-12-24T04:15:25.844421",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Брокеры сообщений",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__brokers",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 824,
+      "original_size_mb": 0.07137584686279297,
+      "compressed_size_mb": 0.05413627624511719,
+      "compression_ratio": 75.84677257726173,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__brokers.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__brokers.jpg"
+      }
+    },
+    {
+      "index": 47,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__compute?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__compute",
+      "timestamp": "2025-12-24T04:15:42.491889",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Инфраструктура",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__compute",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 1776,
+      "original_size_mb": 0.19511127471923828,
+      "compressed_size_mb": 0.156097412109375,
+      "compression_ratio": 80.00430130652185,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__compute.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__compute.jpg"
+      }
+    },
+    {
+      "index": 48,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__containers?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__containers",
+      "timestamp": "2025-12-24T04:16:00.497938",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Контейнеры",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__containers",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 1524,
+      "original_size_mb": 0.17415428161621094,
+      "compressed_size_mb": 0.13711833953857422,
+      "compression_ratio": 78.73383201726045,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__containers.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__containers.jpg"
+      }
+    },
+    {
+      "index": 49,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__database?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__database",
+      "timestamp": "2025-12-24T04:16:18.398810",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Базы данных",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__database",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 846,
+      "original_size_mb": 0.10683441162109375,
+      "compressed_size_mb": 0.08131980895996094,
+      "compression_ratio": 76.11761765335999,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__database.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__database.jpg"
+      }
+    },
+    {
+      "index": 50,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__dataplatform?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__dataplatform",
+      "timestamp": "2025-12-24T04:16:38.423642",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Платформа данных",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__dataplatform",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 1452,
+      "original_size_mb": 0.1559743881225586,
+      "compressed_size_mb": 0.12615966796875,
+      "compression_ratio": 80.8848616028028,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__dataplatform.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__dataplatform.jpg"
+      }
+    },
+    {
+      "index": 51,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__monitoring-management?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__monitoring-management",
+      "timestamp": "2025-12-24T04:16:48.434247",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Мониторинг и управление",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__monitoring-management",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 924,
+      "original_size_mb": 0.10655784606933594,
+      "compressed_size_mb": 0.08679580688476562,
+      "compression_ratio": 81.45416793455887,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__monitoring-management.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__monitoring-management.jpg"
+      }
+    },
+    {
+      "index": 52,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__network?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__network",
+      "timestamp": "2025-12-24T04:17:03.725555",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Сеть",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__network",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 824,
+      "original_size_mb": 0.07163333892822266,
+      "compressed_size_mb": 0.060378074645996094,
+      "compression_ratio": 84.2876732389866,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__network.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__network.jpg"
+      }
+    },
+    {
+      "index": 53,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/index__storage?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_index__storage",
+      "timestamp": "2025-12-24T04:17:20.724210",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Хранение данных",
+      "section_info": {
+        "category": "list",
+        "subcategory": "index__storage",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 824,
+      "original_size_mb": 0.0683298110961914,
+      "compressed_size_mb": 0.05849742889404297,
+      "compression_ratio": 85.61040628620079,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_index__storage.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_index__storage.jpg"
+      }
+    },
+    {
+      "index": 54,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/magic-router__link-vpcs-in-project?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_magic-router__link-vpcs-in-project",
+      "timestamp": "2025-12-24T04:17:35.792352",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Связывание ресурсов в разных VPC внутри проекта",
+      "section_info": {
+        "category": "list",
+        "subcategory": "magic-router__link-vpcs-in-project",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5234,
+      "original_size_mb": 0.4450864791870117,
+      "compressed_size_mb": 0.3354835510253906,
+      "compression_ratio": 75.37491402528781,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_magic-router__link-vpcs-in-project.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_magic-router__link-vpcs-in-project.jpg"
+      }
+    },
+    {
+      "index": 55,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/magic-router__link-vpcs-in-two-projects?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_magic-router__link-vpcs-in-two-projects",
+      "timestamp": "2025-12-24T04:17:47.991895",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Связывание ресурсов разных VPC из разных проектов",
+      "section_info": {
+        "category": "list",
+        "subcategory": "magic-router__link-vpcs-in-two-projects",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 7395,
+      "original_size_mb": 0.6577901840209961,
+      "compressed_size_mb": 0.4988870620727539,
+      "compression_ratio": 75.8428864084159,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_magic-router__link-vpcs-in-two-projects.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_magic-router__link-vpcs-in-two-projects.jpg"
+      }
+    },
+    {
+      "index": 56,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-bi__superset-postgresql?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-bi__superset-postgresql",
+      "timestamp": "2025-12-24T04:17:58.725359",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Построение графика с PostgreSQL",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-bi__superset-postgresql",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4972,
+      "original_size_mb": 0.500452995300293,
+      "compressed_size_mb": 0.3875770568847656,
+      "compression_ratio": 77.44524671137256,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-bi__superset-postgresql.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-bi__superset-postgresql.jpg"
+      }
+    },
+    {
+      "index": 57,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kafka__background-tasks?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kafka__background-tasks",
+      "timestamp": "2025-12-24T04:18:13.622701",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Использование Managed Kafka® для фоновой обработки задач",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kafka__background-tasks",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6312,
+      "original_size_mb": 0.5660820007324219,
+      "compressed_size_mb": 0.39342689514160156,
+      "compression_ratio": 69.4999831530712,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kafka__background-tasks.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kafka__background-tasks.jpg"
+      }
+    },
+    {
+      "index": 58,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kafka__kafka-ui?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kafka__kafka-ui",
+      "timestamp": "2025-12-24T04:18:29.978582",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Kafbat UI для менеджмента и мониторинга кластера Managed Kafka®",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kafka__kafka-ui",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6357,
+      "original_size_mb": 0.5726490020751953,
+      "compressed_size_mb": 0.42534446716308594,
+      "compression_ratio": 74.27664513894209,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kafka__kafka-ui.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kafka__kafka-ui.jpg"
+      }
+    },
+    {
+      "index": 59,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__app-in-karmada?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__app-in-karmada",
+      "timestamp": "2025-12-24T04:18:39.271702",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание nginx в кластерах-участниках Karmada",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__app-in-karmada",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4160,
+      "original_size_mb": 0.40439510345458984,
+      "compressed_size_mb": 0.3196077346801758,
+      "compression_ratio": 79.03353229302022,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__app-in-karmada.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__app-in-karmada.jpg"
+      }
+    },
+    {
+      "index": 60,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__automatic-scaling?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__automatic-scaling",
+      "timestamp": "2025-12-24T04:18:56.943116",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Настройка автомасштабирования группы узлов",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__automatic-scaling",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2573,
+      "original_size_mb": 0.21403789520263672,
+      "compressed_size_mb": 0.1692066192626953,
+      "compression_ratio": 79.05451467017176,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__automatic-scaling.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__automatic-scaling.jpg"
+      }
+    },
+    {
+      "index": 61,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__blue-green-and-canary-deployment?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__blue-green-and-canary-deployment",
+      "timestamp": "2025-12-24T04:19:13.311853",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Продвинутые методики развертывания приложений Blue-Green и Canary в управляемом кластере Managed Kubernetes",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__blue-green-and-canary-deployment",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 12463,
+      "original_size_mb": 1.1009788513183594,
+      "compressed_size_mb": 0.752833366394043,
+      "compression_ratio": 68.37854927845054,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__blue-green-and-canary-deployment.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__blue-green-and-canary-deployment.jpg"
+      }
+    },
+    {
+      "index": 62,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__deploying-cluster-using-terraform?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__deploying-cluster-using-terraform",
+      "timestamp": "2025-12-24T04:19:28.701764",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание кластера Managed Kubernetes с помощью Terraform",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__deploying-cluster-using-terraform",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3715,
+      "original_size_mb": 0.3636455535888672,
+      "compressed_size_mb": 0.27379608154296875,
+      "compression_ratio": 75.29201961658492,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__deploying-cluster-using-terraform.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__deploying-cluster-using-terraform.jpg"
+      }
+    },
+    {
+      "index": 63,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__deployment-app?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__deployment-app",
+      "timestamp": "2025-12-24T04:19:41.657071",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск контейнерного приложения в кластере Managed Kubernetes",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__deployment-app",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4770,
+      "original_size_mb": 0.540557861328125,
+      "compressed_size_mb": 0.3811502456665039,
+      "compression_ratio": 70.51053604697115,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__deployment-app.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__deployment-app.jpg"
+      }
+    },
+    {
+      "index": 64,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__hpa?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__hpa",
+      "timestamp": "2025-12-24T04:19:59.602436",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание Deployment с горизонтальным масштабированием подов",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__hpa",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4243,
+      "original_size_mb": 0.3645162582397461,
+      "compressed_size_mb": 0.27643680572509766,
+      "compression_ratio": 75.83661893711263,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__hpa.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__hpa.jpg"
+      }
+    },
+    {
+      "index": 65,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__karmada-deployment?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__karmada-deployment",
+      "timestamp": "2025-12-24T04:20:11.471772",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание мультикластера Managed Kubernetes с помощью Karmada",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__karmada-deployment",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6734,
+      "original_size_mb": 0.6605110168457031,
+      "compressed_size_mb": 0.5260219573974609,
+      "compression_ratio": 79.63863493291905,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__karmada-deployment.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__karmada-deployment.jpg"
+      }
+    },
+    {
+      "index": 66,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__karmada-fhpa?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__karmada-fhpa",
+      "timestamp": "2025-12-24T04:20:22.934993",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Автоматическое масштабирование nginx с FederatedHPA и нагрузочное тестирование с k6",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__karmada-fhpa",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4805,
+      "original_size_mb": 0.49477672576904297,
+      "compressed_size_mb": 0.40691280364990234,
+      "compression_ratio": 82.24170266243391,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__karmada-fhpa.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__karmada-fhpa.jpg"
+      }
+    },
+    {
+      "index": 67,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__keda-scaling?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__keda-scaling",
+      "timestamp": "2025-12-24T04:20:32.781728",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Event-driven масштабирование в Managed Kubernetes с помощью KEDA",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__keda-scaling",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5767,
+      "original_size_mb": 0.5778121948242188,
+      "compressed_size_mb": 0.44693565368652344,
+      "compression_ratio": 77.34964019277744,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__keda-scaling.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__keda-scaling.jpg"
+      }
+    },
+    {
+      "index": 68,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__redis-user-sessions?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__redis-user-sessions",
+      "timestamp": "2025-12-24T04:20:48.006695",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение Managed Redis® к сервисам в кластере Managed Kubernetes",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__redis-user-sessions",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4848,
+      "original_size_mb": 0.4584064483642578,
+      "compressed_size_mb": 0.3536252975463867,
+      "compression_ratio": 77.14230434764518,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__redis-user-sessions.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__redis-user-sessions.jpg"
+      }
+    },
+    {
+      "index": 69,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__secret?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__secret",
+      "timestamp": "2025-12-24T04:20:57.533395",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Работа с секретами при публикации приложений в Managed Kubernetes",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__secret",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5716,
+      "original_size_mb": 0.5323514938354492,
+      "compressed_size_mb": 0.39119625091552734,
+      "compression_ratio": 73.48457841210582,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__secret.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__secret.jpg"
+      }
+    },
+    {
+      "index": 70,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__time-slicing?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__time-slicing",
+      "timestamp": "2025-12-24T04:21:16.088194",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Настройка Time-Slicing GPU",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__time-slicing",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3709,
+      "original_size_mb": 0.3258018493652344,
+      "compressed_size_mb": 0.23203182220458984,
+      "compression_ratio": 71.21869401805473,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__time-slicing.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__time-slicing.jpg"
+      }
+    },
+    {
+      "index": 71,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__vpa?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__vpa",
+      "timestamp": "2025-12-24T04:21:34.258448",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание Deployment с вертикальным масштабированием подов",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__vpa",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3539,
+      "original_size_mb": 0.2965717315673828,
+      "compressed_size_mb": 0.21010112762451172,
+      "compression_ratio": 70.84327508698365,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__vpa.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__vpa.jpg"
+      }
+    },
+    {
+      "index": 72,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-kubernetes__website?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__website",
+      "timestamp": "2025-12-24T04:21:53.583090",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Пример развертывания сайта",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-kubernetes__website",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3586,
+      "original_size_mb": 0.31975555419921875,
+      "compressed_size_mb": 0.23279190063476562,
+      "compression_ratio": 72.80308272291283,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-kubernetes__website.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-kubernetes__website.jpg"
+      }
+    },
+    {
+      "index": 73,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-postgresql__ide-connection?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-postgresql__ide-connection",
+      "timestamp": "2025-12-24T04:22:09.756135",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение кластера Managed PostgreSQL® к локальной IDE",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-postgresql__ide-connection",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4495,
+      "original_size_mb": 0.40775108337402344,
+      "compressed_size_mb": 0.31681346893310547,
+      "compression_ratio": 77.69776264272917,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-postgresql__ide-connection.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-postgresql__ide-connection.jpg"
+      }
+    },
+    {
+      "index": 74,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-postgresql__pg_dump?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-postgresql__pg_dump",
+      "timestamp": "2025-12-24T04:22:23.024561",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Резервное копирование и восстановление базы данных",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-postgresql__pg_dump",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2273,
+      "original_size_mb": 0.22159671783447266,
+      "compressed_size_mb": 0.15968036651611328,
+      "compression_ratio": 72.05899440956098,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-postgresql__pg_dump.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-postgresql__pg_dump.jpg"
+      }
+    },
+    {
+      "index": 75,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__connect-mcp-chatbox?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-rag__connect-mcp-chatbox",
+      "timestamp": "2025-12-24T04:22:33.429449",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение MCP-сервера Managed RAG к Chatbox",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-rag__connect-mcp-chatbox",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3432,
+      "original_size_mb": 0.3575124740600586,
+      "compressed_size_mb": 0.2451486587524414,
+      "compression_ratio": 68.57065879923923,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-rag__connect-mcp-chatbox.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-rag__connect-mcp-chatbox.jpg"
+      }
+    },
+    {
+      "index": 76,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__create-agent?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-rag__create-agent",
+      "timestamp": "2025-12-24T04:22:44.224275",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание AI-агента с MCP-сервером Managed RAG",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-rag__create-agent",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2861,
+      "original_size_mb": 0.32454586029052734,
+      "compressed_size_mb": 0.2417469024658203,
+      "compression_ratio": 74.48774797170823,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-rag__create-agent.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-rag__create-agent.jpg"
+      }
+    },
+    {
+      "index": 77,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__create-inference?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-rag__create-inference",
+      "timestamp": "2025-12-24T04:22:54.867529",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание инференса для использования в Managed RAG",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-rag__create-inference",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5959,
+      "original_size_mb": 0.6253566741943359,
+      "compressed_size_mb": 0.4762248992919922,
+      "compression_ratio": 76.15252526176774,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-rag__create-inference.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-rag__create-inference.jpg"
+      }
+    },
+    {
+      "index": 78,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__json-files?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-rag__json-files",
+      "timestamp": "2025-12-24T04:23:16.323330",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание базы знаний из JSON-файла",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-rag__json-files",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 1848,
+      "original_size_mb": 0.19837570190429688,
+      "compressed_size_mb": 0.15112686157226562,
+      "compression_ratio": 76.18214333788436,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-rag__json-files.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-rag__json-files.jpg"
+      }
+    },
+    {
+      "index": 79,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-rag__md-files?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-rag__md-files",
+      "timestamp": "2025-12-24T04:23:27.659161",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание базы знаний из md-файлов",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-rag__md-files",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3194,
+      "original_size_mb": 0.40674781799316406,
+      "compressed_size_mb": 0.2821054458618164,
+      "compression_ratio": 69.35635137606505,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-rag__md-files.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-rag__md-files.jpg"
+      }
+    },
+    {
+      "index": 80,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-redis__queue-broker?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-redis__queue-broker",
+      "timestamp": "2025-12-24T04:23:38.813609",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Использование Managed Redis® как брокера сообщений",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-redis__queue-broker",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5590,
+      "original_size_mb": 0.5044841766357422,
+      "compressed_size_mb": 0.3595409393310547,
+      "compression_ratio": 71.26902209871642,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-redis__queue-broker.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-redis__queue-broker.jpg"
+      }
+    },
+    {
+      "index": 81,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-redis__web-performance?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-redis__web-performance",
+      "timestamp": "2025-12-24T04:23:55.651943",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Оптимизация производительности Web-приложения с Managed Redis®",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-redis__web-performance",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9426,
+      "original_size_mb": 0.9339771270751953,
+      "compressed_size_mb": 0.6308355331420898,
+      "compression_ratio": 67.54293171157079,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-redis__web-performance.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-redis__web-performance.jpg"
+      }
+    },
+    {
+      "index": 82,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-delta-lake?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-delta-lake",
+      "timestamp": "2025-12-24T04:24:06.101168",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Работа с таблицами Delta Lake",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-spark__spark-delta-lake",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5164,
+      "original_size_mb": 0.5647907257080078,
+      "compressed_size_mb": 0.3694601058959961,
+      "compression_ratio": 65.41539885111428,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-spark__spark-delta-lake.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-delta-lake.jpg"
+      }
+    },
+    {
+      "index": 83,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-iceberg?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-iceberg",
+      "timestamp": "2025-12-24T04:24:16.709545",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Работа с таблицами Iceberg",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-spark__spark-iceberg",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4938,
+      "original_size_mb": 0.5222015380859375,
+      "compressed_size_mb": 0.34997081756591797,
+      "compression_ratio": 67.01834292727114,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-spark__spark-iceberg.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-iceberg.jpg"
+      }
+    },
+    {
+      "index": 84,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-image-artifact-registry?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-image-artifact-registry",
+      "timestamp": "2025-12-24T04:24:31.411965",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Работа с пользовательским образом",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-spark__spark-image-artifact-registry",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4333,
+      "original_size_mb": 0.4446735382080078,
+      "compressed_size_mb": 0.32064056396484375,
+      "compression_ratio": 72.10695856942483,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-spark__spark-image-artifact-registry.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-image-artifact-registry.jpg"
+      }
+    },
+    {
+      "index": 85,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-s3?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-s3",
+      "timestamp": "2025-12-24T04:24:42.979349",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Обработка данных из Object Storage",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-spark__spark-s3",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4304,
+      "original_size_mb": 0.4603567123413086,
+      "compressed_size_mb": 0.3131980895996094,
+      "compression_ratio": 68.03378362981361,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-spark__spark-s3.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-s3.jpg"
+      }
+    },
+    {
+      "index": 86,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-spark__spark-streaming?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-streaming",
+      "timestamp": "2025-12-24T04:24:57.101329",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Чтение сообщений из топиков Managed Kafka®",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-spark__spark-streaming",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4292,
+      "original_size_mb": 0.48560428619384766,
+      "compressed_size_mb": 0.3535032272338867,
+      "compression_ratio": 72.79656240364656,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-spark__spark-streaming.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-spark__spark-streaming.jpg"
+      }
+    },
+    {
+      "index": 87,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__migration-postgresql?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-trino__migration-postgresql",
+      "timestamp": "2025-12-24T04:25:18.529946",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Миграция PostgreSQL с помощью Trino",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-trino__migration-postgresql",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3824,
+      "original_size_mb": 0.3318662643432617,
+      "compressed_size_mb": 0.24334716796875,
+      "compression_ratio": 73.32687715345688,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-trino__migration-postgresql.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-trino__migration-postgresql.jpg"
+      }
+    },
+    {
+      "index": 88,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__trino-iceberg?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-trino__trino-iceberg",
+      "timestamp": "2025-12-24T04:25:42.133804",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение Trino к Iceberg",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-trino__trino-iceberg",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5120,
+      "original_size_mb": 0.532440185546875,
+      "compressed_size_mb": 0.3576803207397461,
+      "compression_ratio": 67.17755917922852,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-trino__trino-iceberg.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-trino__trino-iceberg.jpg"
+      }
+    },
+    {
+      "index": 89,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__trino-postgres?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-trino__trino-postgres",
+      "timestamp": "2025-12-24T04:26:05.870625",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение Trino к PostgreSQL®",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-trino__trino-postgres",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6277,
+      "original_size_mb": 0.721099853515625,
+      "compressed_size_mb": 0.4160175323486328,
+      "compression_ratio": 57.69208387997799,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-trino__trino-postgres.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-trino__trino-postgres.jpg"
+      }
+    },
+    {
+      "index": 90,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/managed-trino__trino-s3?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_managed-trino__trino-s3",
+      "timestamp": "2025-12-24T04:26:32.435272",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подключение Trino к S3",
+      "section_info": {
+        "category": "list",
+        "subcategory": "managed-trino__trino-s3",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6454,
+      "original_size_mb": 0.6572084426879883,
+      "compressed_size_mb": 0.4346742630004883,
+      "compression_ratio": 66.13948250918182,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_managed-trino__trino-s3.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_managed-trino__trino-s3.jpg"
+      }
+    },
+    {
+      "index": 91,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/ml-finetuning__finetune-example?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_ml-finetuning__finetune-example",
+      "timestamp": "2025-12-24T04:26:44.818015",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Дообучение готовой модели из Huggingface",
+      "section_info": {
+        "category": "list",
+        "subcategory": "ml-finetuning__finetune-example",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2665,
+      "original_size_mb": 0.2712879180908203,
+      "compressed_size_mb": 0.1954202651977539,
+      "compression_ratio": 72.03426771564966,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_ml-finetuning__finetune-example.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_ml-finetuning__finetune-example.jpg"
+      }
+    },
+    {
+      "index": 92,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/ml-finetuning__prepare-dataset?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_ml-finetuning__prepare-dataset",
+      "timestamp": "2025-12-24T04:27:05.327701",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подготовка датасета Alpaca для использования в ML Finetuning",
+      "section_info": {
+        "category": "list",
+        "subcategory": "ml-finetuning__prepare-dataset",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4049,
+      "original_size_mb": 0.4328498840332031,
+      "compressed_size_mb": 0.3037729263305664,
+      "compression_ratio": 70.17974072213556,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_ml-finetuning__prepare-dataset.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_ml-finetuning__prepare-dataset.jpg"
+      }
+    },
+    {
+      "index": 93,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__audit-logging__archive-lk?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__archive-lk",
+      "timestamp": "2025-12-24T04:27:16.195627",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Архивирование аудит-логов личного кабинета в бакете Object Storage",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__audit-logging__archive-lk",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2147,
+      "original_size_mb": 0.22695350646972656,
+      "compressed_size_mb": 0.19438552856445312,
+      "compression_ratio": 85.64993402751514,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__archive-lk.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__archive-lk.jpg"
+      }
+    },
+    {
+      "index": 94,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__audit-logging__fluent-bit?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__fluent-bit",
+      "timestamp": "2025-12-24T04:27:37.768899",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Передача аудит-логов с виртуальной машины с помощью Fluent Bit",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__audit-logging__fluent-bit",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 7067,
+      "original_size_mb": 0.6378860473632812,
+      "compressed_size_mb": 0.48938941955566406,
+      "compression_ratio": 76.72050855769116,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__fluent-bit.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__fluent-bit.jpg"
+      }
+    },
+    {
+      "index": 95,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__audit-logging__group-notify?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__group-notify",
+      "timestamp": "2025-12-24T04:27:54.444794",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Моментальное групповое email-уведомление о событии аудита",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__audit-logging__group-notify",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3068,
+      "original_size_mb": 0.29259777069091797,
+      "compressed_size_mb": 0.2588319778442383,
+      "compression_ratio": 88.45999654510432,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__group-notify.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__group-notify.jpg"
+      }
+    },
+    {
+      "index": 96,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__audit-logging__siem-tls-export?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__siem-tls-export",
+      "timestamp": "2025-12-24T04:28:06.073834",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Экспорт аудит-логов в SIEM с использованием защищенного протокола TLS",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__audit-logging__siem-tls-export",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 2140,
+      "original_size_mb": 0.22432422637939453,
+      "compressed_size_mb": 0.1957712173461914,
+      "compression_ratio": 87.27154463249455,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__siem-tls-export.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__audit-logging__siem-tls-export.jpg"
+      }
+    },
+    {
+      "index": 97,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__docker-fluent-bit?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__docker-fluent-bit",
+      "timestamp": "2025-12-24T04:28:25.642425",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Передача логов с виртуальной машины с помощью Docker-контейнера плагина Fluent Bit",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__client-log__docker-fluent-bit",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 7756,
+      "original_size_mb": 0.6681442260742188,
+      "compressed_size_mb": 0.48700809478759766,
+      "compression_ratio": 72.88966600057094,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__docker-fluent-bit.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__docker-fluent-bit.jpg"
+      }
+    },
+    {
+      "index": 98,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__fluent-bit-logaas-plugin?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__fluent-bit-logaas-plugin",
+      "timestamp": "2025-12-24T04:28:45.262992",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Передача логов с виртуальной машины с помощью Fluent Bit logaas plugin",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__client-log__fluent-bit-logaas-plugin",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6137,
+      "original_size_mb": 0.5458383560180664,
+      "compressed_size_mb": 0.42742156982421875,
+      "compression_ratio": 78.30552124300912,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__fluent-bit-logaas-plugin.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__fluent-bit-logaas-plugin.jpg"
+      }
+    },
+    {
+      "index": 99,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__fluent-bit-lua-script?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__fluent-bit-lua-script",
+      "timestamp": "2025-12-24T04:29:06.679794",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Передача логов с виртуальной машины с помощью Fluent Bit и Lua-скрипта",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__client-log__fluent-bit-lua-script",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8911,
+      "original_size_mb": 0.7810325622558594,
+      "compressed_size_mb": 0.5494747161865234,
+      "compression_ratio": 70.35234415828624,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__fluent-bit-lua-script.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__fluent-bit-lua-script.jpg"
+      }
+    },
+    {
+      "index": 100,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__client-log__kubernetes?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__kubernetes",
+      "timestamp": "2025-12-24T04:29:25.769950",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Передача логов с кластера Managed Kubernetes",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__client-log__kubernetes",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6593,
+      "original_size_mb": 0.6542530059814453,
+      "compressed_size_mb": 0.4637413024902344,
+      "compression_ratio": 70.88103505074092,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__kubernetes.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__client-log__kubernetes.jpg"
+      }
+    },
+    {
+      "index": 101,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__monitoring__archived-metrics?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__monitoring__archived-metrics",
+      "timestamp": "2025-12-24T04:29:36.953878",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Просмотр архивированных метрик в Grafana",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__monitoring__archived-metrics",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3362,
+      "original_size_mb": 0.3105583190917969,
+      "compressed_size_mb": 0.22913265228271484,
+      "compression_ratio": 73.78087727702645,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__monitoring__archived-metrics.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__monitoring__archived-metrics.jpg"
+      }
+    },
+    {
+      "index": 102,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/monitoring-and-logging__monitoring__vmagent-vm?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__monitoring__vmagent-vm",
+      "timestamp": "2025-12-24T04:29:46.626320",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Мониторинг виртуальной машины с помощью vmagent",
+      "section_info": {
+        "category": "list",
+        "subcategory": "monitoring-and-logging__monitoring__vmagent-vm",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 8033,
+      "original_size_mb": 0.6438541412353516,
+      "compressed_size_mb": 0.49394798278808594,
+      "compression_ratio": 76.71737295039473,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_monitoring-and-logging__monitoring__vmagent-vm.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_monitoring-and-logging__monitoring__vmagent-vm.jpg"
+      }
+    },
+    {
+      "index": 103,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__comfyui-kandinsky?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_notebooks__comfyui-kandinsky",
+      "timestamp": "2025-12-24T04:30:12.584384",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Генерация видео с моделью Kandinsky 5.0 Video Lite в ComfyUI на основе Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "notebooks__comfyui-kandinsky",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5629,
+      "original_size_mb": 0.9425668716430664,
+      "compressed_size_mb": 0.43639373779296875,
+      "compression_ratio": 46.298437906294616,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_notebooks__comfyui-kandinsky.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_notebooks__comfyui-kandinsky.jpg"
+      }
+    },
+    {
+      "index": 104,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__cv-cnn?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_notebooks__cv-cnn",
+      "timestamp": "2025-12-24T04:30:31.742655",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Инференс на собственных изображениях с использованием модели CNN, обученной на MNIST, на основе Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "notebooks__cv-cnn",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5247,
+      "original_size_mb": 0.563288688659668,
+      "compressed_size_mb": 0.4241180419921875,
+      "compression_ratio": 75.29319344248972,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_notebooks__cv-cnn.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_notebooks__cv-cnn.jpg"
+      }
+    },
+    {
+      "index": 105,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__cv-pretrain?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_notebooks__cv-pretrain",
+      "timestamp": "2025-12-24T04:30:50.151740",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Инференс изображений на предобученой модели на основе Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "notebooks__cv-pretrain",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3119,
+      "original_size_mb": 0.3429136276245117,
+      "compressed_size_mb": 0.2754335403442383,
+      "compression_ratio": 80.32154984690088,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_notebooks__cv-pretrain.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_notebooks__cv-pretrain.jpg"
+      }
+    },
+    {
+      "index": 106,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__images-comfyui?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_notebooks__images-comfyui",
+      "timestamp": "2025-12-24T04:31:11.797134",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Генерация изображений с ComfyUI на основе Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "notebooks__images-comfyui",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 3602,
+      "original_size_mb": 0.4439239501953125,
+      "compressed_size_mb": 0.2643423080444336,
+      "compression_ratio": 59.54675523321761,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_notebooks__images-comfyui.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_notebooks__images-comfyui.jpg"
+      }
+    },
+    {
+      "index": 107,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__low-code-rag?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_notebooks__low-code-rag",
+      "timestamp": "2025-12-24T04:31:36.439844",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Создание Telegram-бота для поиска информации из Jira на основе Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "notebooks__low-code-rag",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9295,
+      "original_size_mb": 0.9924745559692383,
+      "compressed_size_mb": 0.6126346588134766,
+      "compression_ratio": 61.727996463867555,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_notebooks__low-code-rag.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_notebooks__low-code-rag.jpg"
+      }
+    },
+    {
+      "index": 108,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/notebooks__training-tensorboard?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_notebooks__training-tensorboard",
+      "timestamp": "2025-12-24T04:32:11.696231",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Анализ обучения с TensorBoard PyTorch Profiler на основе Notebooks",
+      "section_info": {
+        "category": "list",
+        "subcategory": "notebooks__training-tensorboard",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 15864,
+      "original_size_mb": 1.7529878616333008,
+      "compressed_size_mb": 1.0581130981445312,
+      "compression_ratio": 60.36054905472431,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_notebooks__training-tensorboard.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_notebooks__training-tensorboard.jpg"
+      }
+    },
+    {
+      "index": 109,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__docker-swarm?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__docker-swarm",
+      "timestamp": "2025-12-24T04:32:25.781695",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание отказоустойчивого веб-приложения с разделением компонентов во фреймворке Docker Swarm",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__docker-swarm",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 10387,
+      "original_size_mb": 0.9467792510986328,
+      "compressed_size_mb": 0.7119874954223633,
+      "compression_ratio": 75.20100325352297,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__docker-swarm.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__docker-swarm.jpg"
+      }
+    },
+    {
+      "index": 110,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__gitverse-grafana-prometheus?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__gitverse-grafana-prometheus",
+      "timestamp": "2025-12-24T04:32:44.574517",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Организация CI/CD и мониторинга приложения",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__gitverse-grafana-prometheus",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 12545,
+      "original_size_mb": 1.2373418807983398,
+      "compressed_size_mb": 0.8791656494140625,
+      "compression_ratio": 71.05276747335344,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__gitverse-grafana-prometheus.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__gitverse-grafana-prometheus.jpg"
+      }
+    },
+    {
+      "index": 111,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__kandinsky?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__kandinsky",
+      "timestamp": "2025-12-24T04:33:04.970269",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Запуск Kandinsky 5.0 Video Lite на GPU NVIDIA A100",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__kandinsky",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9962,
+      "original_size_mb": 1.0058298110961914,
+      "compressed_size_mb": 0.6573686599731445,
+      "compression_ratio": 65.35585371611916,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__kandinsky.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__kandinsky.jpg"
+      }
+    },
+    {
+      "index": 112,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__postgresql-keycloak?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__postgresql-keycloak",
+      "timestamp": "2025-12-24T04:33:20.063137",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание Identity Provider Keycloak на виртуальной машине и Managed PostgreSQL®",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__postgresql-keycloak",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6038,
+      "original_size_mb": 0.5851402282714844,
+      "compressed_size_mb": 0.4306163787841797,
+      "compression_ratio": 73.59199692289639,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__postgresql-keycloak.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__postgresql-keycloak.jpg"
+      }
+    },
+    {
+      "index": 113,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__postgresql-sonarqube?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__postgresql-sonarqube",
+      "timestamp": "2025-12-24T04:33:38.385647",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание сервиса статического мониторинга кода и безопасности SonarQube",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__postgresql-sonarqube",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 9947,
+      "original_size_mb": 1.0351886749267578,
+      "compressed_size_mb": 0.7253913879394531,
+      "compression_ratio": 70.07335044413777,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__postgresql-sonarqube.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__postgresql-sonarqube.jpg"
+      }
+    },
+    {
+      "index": 114,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__quantum-simulator?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__quantum-simulator",
+      "timestamp": "2025-12-24T04:33:57.940130",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Решение задач с помощью квантового симулятора",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__quantum-simulator",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4885,
+      "original_size_mb": 0.4270172119140625,
+      "compressed_size_mb": 0.3370018005371094,
+      "compression_ratio": 78.91995711988565,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__quantum-simulator.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__quantum-simulator.jpg"
+      }
+    },
+    {
+      "index": 115,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__site-on-lemp?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__site-on-lemp",
+      "timestamp": "2025-12-24T04:34:08.628872",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание сайта с использованием LEMP",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__site-on-lemp",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4580,
+      "original_size_mb": 0.4050559997558594,
+      "compressed_size_mb": 0.2942047119140625,
+      "compression_ratio": 72.63309569328423,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__site-on-lemp.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__site-on-lemp.jpg"
+      }
+    },
+    {
+      "index": 116,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__site-to-site-vpn?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__site-to-site-vpn",
+      "timestamp": "2025-12-24T04:34:27.553255",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Настройка site-to-site VPN с помощью strongSwan",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__site-to-site-vpn",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 11816,
+      "original_size_mb": 1.0784473419189453,
+      "compressed_size_mb": 0.8308725357055664,
+      "compression_ratio": 77.04340336424266,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__site-to-site-vpn.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__site-to-site-vpn.jpg"
+      }
+    },
+    {
+      "index": 117,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__smarthome?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__smarthome",
+      "timestamp": "2025-12-24T04:34:43.693179",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание системы умного дома с использованием Node-RED и Mosquitto",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__smarthome",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 6827,
+      "original_size_mb": 0.6128406524658203,
+      "compressed_size_mb": 0.4747447967529297,
+      "compression_ratio": 77.46627036616299,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__smarthome.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__smarthome.jpg"
+      }
+    },
+    {
+      "index": 118,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__vm-router?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__vm-router",
+      "timestamp": "2025-12-24T04:35:00.065695",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Настройка виртуальной машины в качестве маршрутизатора",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__vm-router",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4281,
+      "original_size_mb": 0.40215015411376953,
+      "compressed_size_mb": 0.3141822814941406,
+      "compression_ratio": 78.12561509183395,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__vm-router.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__vm-router.jpg"
+      }
+    },
+    {
+      "index": 119,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__windows-custom-image?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__windows-custom-image",
+      "timestamp": "2025-12-24T04:35:18.086575",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Подготовка и создание пользовательского образа с ОС Windows",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__windows-custom-image",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 4344,
+      "original_size_mb": 0.41899967193603516,
+      "compressed_size_mb": 0.33483219146728516,
+      "compression_ratio": 79.9122801027875,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__windows-custom-image.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__windows-custom-image.jpg"
+      }
+    },
+    {
+      "index": 120,
+      "url": "https://cloud.ru/docs/tutorials-evolution/list/topics/vm__wireguard-vpn?source-platform=Evolution",
+      "filename": "docs_tutorials-evolution_list_topics_vm__wireguard-vpn",
+      "timestamp": "2025-12-24T04:35:29.533387",
+      "success": true,
+      "mode": "playwright_full_page_compressed",
+      "title": "Развертывание WireGuard VPN сервера с помощью Terraform в Cloud.ru Evolution",
+      "section_info": {
+        "category": "list",
+        "subcategory": "vm__wireguard-vpn",
+        "topic": null
+      },
+      "width": 1500,
+      "height": 5614,
+      "original_size_mb": 0.47514915466308594,
+      "compressed_size_mb": 0.3741292953491211,
+      "compression_ratio": 78.73933725387873,
+      "screenshot": {
+        "path": "/home/gna/workspase/education/MEPHI/Team_5_AI_Tutor/data/raw/cloud_ru/docs_tutorials-evolution_list_topics_vm__wireguard-vpn.jpg",
+        "filename": "docs_tutorials-evolution_list_topics_vm__wireguard-vpn.jpg"
+      }
+    }
+  ]
+}
