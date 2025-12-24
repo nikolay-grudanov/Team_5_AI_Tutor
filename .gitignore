@@ -654,3 +654,5 @@ tags
 models/*/*.safetensors
 .specify/**
 .kilocode/**
+.kilocode/
+.specify/
