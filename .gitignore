@@ -652,3 +652,5 @@ tags
 .ionide
 
 models/*/*.safetensors
+.specify/**
+.kilocode/**
