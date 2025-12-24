@@ -1,0 +1,62 @@
+{
+  "antialias": false,
+  "auto_map": {
+    "AutoImageProcessor": "image_processing_jvlm.JinaVLMImageProcessor",
+    "AutoProcessor": "processing_jvlm.JinaVLMProcessor"
+  },
+  "base_input_size": [
+    378,
+    378
+  ],
+  "column_token_id": 151939,
+  "crop_size": 378,
+  "cropping_method": "overlap-and-resize",
+  "do_convert_rgb": true,
+  "do_resize": true,
+  "end_token_id": 151937,
+  "image_base_patch_h": 27,
+  "image_base_patch_w": 27,
+  "image_max": 1.0,
+  "image_mean": [
+    0.48145466,
+    0.4578275,
+    0.40821073
+  ],
+  "image_min": -1.0,
+  "image_processor_type": "JinaVLMImageProcessor",
+  "image_std": [
+    0.26862954,
+    0.26130258,
+    0.27577711
+  ],
+  "interpolation": "bilinear",
+  "is_training": false,
+  "max_crops": 12,
+  "max_pixels": 1003520,
+  "min_pixels": 3136,
+  "normalization_method": "minmax",
+  "overlap_margins": [
+    4,
+    4
+  ],
+  "padding_mask": 2,
+  "padding_value": 0.0,
+  "patch_size": 14,
+  "patch_token_id": 151938,
+  "pooling_h": 2,
+  "pooling_w": 2,
+  "preserve_aspect_ratio": false,
+  "processor_class": "JinaVLMProcessor",
+  "random_interpolation": false,
+  "resize_in_float32": false,
+  "rng": null,
+  "size": {
+    "longest_edge": 1003520,
+    "shortest_edge": 3136
+  },
+  "start_token_id": 151936,
+  "token_length_h": 14,
+  "token_length_w": 14,
+  "tokens_per_image": 196,
+  "use_column_tokens": true
+}

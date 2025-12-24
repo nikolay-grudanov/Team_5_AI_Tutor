@@ -1,0 +1,45 @@
+# Используем ваш базовый образ
+FROM docker.io/rocm/vllm-dev:nightly_main_20251214
+
+USER root
+
+# 1. Установка зависимостей для сборки и отладки
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    git \
+    cmake \
+    build-essential \
+    libelf-dev \
+    libdw-dev \
+    rocm-dbgapi \
+    rocm-debug-agent \
+    gdb \
+    htop \
+    vim \
+    curl \
+    && rm -rf /var/lib/apt/lists/*
+
+# 2. Сборка ROCr Debug Agent из исходников
+# Это гарантирует наличие правильных .so файлов для ROCm 7.x
+RUN git clone https://github.com/ROCm/rocr_debug_agent.git /tmp/rocr_debug_agent && \
+    cd /tmp/rocr_debug_agent && \
+    mkdir build && cd build && \
+    cmake -DCMAKE_BUILD_TYPE=Release \
+          -DCMAKE_INSTALL_PREFIX=/opt/rocm \
+          .. && \
+    make -j$(nproc) && \
+    make install && \
+    # Создаем универсальный симлинк для удобства
+    ln -sf /opt/rocm/lib/librocm-debug-agent.so.2 /opt/rocm/lib/librocm-debug-agent.so && \
+    rm -rf /tmp/rocr_debug_agent
+
+# 3. Настройка переменных окружения для дебага
+# HSA_TOOLS_LIB заставляет рантайм загружать агент при старте любого приложения
+ENV HSA_TOOLS_LIB=/opt/rocm/lib/librocm-debug-agent.so.2
+ENV HSA_ENABLE_DEBUG=1
+# AMD_LOG_LEVEL=3 включает подробный логгинг драйвера (инфо/ошибки)
+ENV AMD_LOG_LEVEL=3
+# Опции агента: дамп всех волн и сохранение кода ядра при падении
+ENV ROCM_DEBUG_AGENT_OPTIONS="--all --save-code-objects"
+
+WORKDIR /workspace
+ENTRYPOINT ["/bin/bash"]

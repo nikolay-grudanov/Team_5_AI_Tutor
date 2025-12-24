@@ -1,0 +1,52 @@
+---
+source_image: page_119.png
+page_number: 119
+model: model-run-olm-ocr
+prompt_type: olmocr_technical
+processing_time: 29.25
+tokens: 11769
+characters: 2186
+timestamp: 2025-12-23T23:39:39.193121
+finish_reason: stop
+---
+
+SECTION 02 SOFTWARE MAINTENANCE & UPGRADE
+SECTION 03 OTHER SOFTWARE ISSUES
+Chapter 05 Securing Hardware, Peripherals and Other Equipment SECTION 01 PURCHASING AND INSTALLING HARDWARE
+SECTION 02 CABLING, UPS, PRINTERS AND MODEMS
+SECTION 03 CONSUMABLES
+SECTION 04 WORKING OFF PREMISES OR USING OUTSOURCED PROCESSING
+SECTION 05 USING SECURE STORAGE
+SECTION 06 DOCUMENTING HARDWARE
+SECTION 07 OTHER HARDWARE ISSUES
+Chapter 06 Combating Cyber Crime SECTION 01 COMBATING CYBER CRIME
+Chapter 07 Controlling e?Commerce Information Security SECTION 01 E COMMERCE ISSUES
+Chapter 08 Developing and Maintaining In?House Software SECTION 01 CONTROLLING SOFTWARE CODE
+SECTION 02 SOFTWARE DEVELOPMENT
+SECTION 03 TESTING & TRAINING
+SECTION 04 DOCUMENTATION
+SECTION 05 OTHER SOFTWARE DEVELOPMENT
+Chapter 09 Dealing with Premises related Considerations SECTION 01 PREMISES SECURITY
+SECTION 02 DATASTORES
+SECTION 03 OTHER PREMISES ISSUES
+Chapter 10 Addressing Personnel Issues relating to Security SECTION 01 CONTRACTUAL DOCUMENTATION
+SECTION 02 CONFIDENTIAL PERSONNEL DATA
+SECTION 03 PERSONNEL INFORMATION SECURITY RESPONSIBILITIES
+SECTION 04 HR MANAGEMENT
+SECTION 05 STAFF LEAVING EMPLOYMENT
+SECTION 06 HR ISSUES OTHER
+Chapter 11 Delivering Training and Staff Awareness SECTION 01 AWARENESS
+SECTION 02 TRAINING
+Chapter 12 Complying with Legal and Policy Requirements SECTION 01 COMPLYING WITH LEGAL OBLIGATIONS
+SECTION 02 COMPLYING WITH POLICIES
+SECTION 03 AVOIDING LITIGATION
+SECTION 04 OTHER LEGAL ISSUES
+Chapter 13 Detecting and Responding to IS Incidents SECTION 01 REPORTING INFORMATION SECURITY INCIDENTS
+SECTION 02 INVESTIGATING INFORMATION SECURITY INCIDENTS
+SECTION 03 CORRECTIVE ACTIVITY
+SECTION 04 OTHER INFORMATION SECURITY INCIDENT ISSUES
+Chapter 14 Planning for Business Continuity SECTION 01 BUSINESS CONTINUITY MANAGEMENT (BCP)
+
+3.6. Проблемы разработки политик безопасности
+
+Сегодня отечественные предприятия остро нуждаются в политиках безопасности. Например, 44 % предприятий финансового и государственного сектора вынуждены пересматривать политики безопасности два или более раз в год. К тому же здесь часто возникают проблемы, которые заключаются в том, что высокоуровневые политики
